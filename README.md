@@ -27,3 +27,5 @@ docker run --name user-portal-api -p 4000:4000 -d user-portal-api:1.0
 
 Note:
 The API will be running in port 4000
+
+The data will be saved to MongoDB Atlas
